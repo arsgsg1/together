@@ -1,6 +1,6 @@
-package com.ko.mogakco.mogakco.repository
+package com.ko.mogakco.mogakco.repository.auth
 
-import com.ko.mogakco.mogakco.domain.Account
+import com.ko.mogakco.mogakco.domain.auth.Account
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 import java.util.Optional
