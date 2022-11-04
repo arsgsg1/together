@@ -1,4 +1,4 @@
-package com.ko.mogakco.mogakco.domain
+package com.ko.mogakco.mogakco.domain.auth
 
 import javax.persistence.Entity
 import javax.persistence.Table
